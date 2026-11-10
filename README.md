@@ -10,6 +10,8 @@ Baja el instalador `EzWork_x.y.z_x64-setup.exe` de la sección [Releases](https:
 
 Windows puede mostrar "Windows protegió tu PC" porque el instalador todavía no está firmado. Da clic en **Más información** y luego en **Ejecutar de todas formas**.
 
+Si Windows Defender bloquea o borra EzWork (le pasa a programas nuevos sin firma), abre **Seguridad de Windows → Protección contra virus y amenazas → Historial de protección**, elige la alerta de EzWork y da clic en **Acciones → Permitir en el dispositivo**. Luego vuelve a instalarlo.
+
 ## Contacto
 
 brayananuharmtz11@gmail.com
